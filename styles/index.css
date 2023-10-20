@@ -1,0 +1,32 @@
+body {
+	background: #ffffff;
+	font-family: poppins;
+}
+
+panel {
+	width: 200px;
+	margin: auto;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+	background: #FFF;
+	display: block;
+	margin-top: 50px;
+	padding-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+	display: block;
+}
+
+label {
+	display: block;
+	width: auto;
+	background: #000;
+	margin-bottom: 10px;
+	text-align: center;
+	padding: 10px;
+	border-radius: 5px;
+}
